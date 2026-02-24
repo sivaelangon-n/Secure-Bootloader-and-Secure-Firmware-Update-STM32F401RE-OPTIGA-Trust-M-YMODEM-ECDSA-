@@ -1,0 +1,33 @@
+# macOS junk
+.DS_Store
+
+# STM32CubeIDE specific
+.settings/
+.project
+.cproject
+.mxproject
+Debug/
+Release/
+ .project
+ .cproject
+
+# Optional: logs or generated files
+*.log
+*.elf
+*.bin
+*.hex
+*.map
+*.launch
+*.log
+*.dep
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.lst
+*.pyc
+*.user
+*.swp
+*.swo

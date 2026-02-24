@@ -1,0 +1,7 @@
+[submodule "externals/optiga-trust-m"]
+	path = externals/optiga-trust-m
+	url = https://github.com/Infineon/optiga-trust-m.git
+	branch = develop
+[submodule "externals/mbedtls"]
+	path = externals/mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls.git
